@@ -1,0 +1,19 @@
+#avv,#ac1{
+     text-align: center;
+     /*text-shadow: 2px 2px 5px #061b3d;*/
+}
+h4 {
+    /*text-shadow: 2px 2px 5px red;*/
+    /*text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;*/
+}
+
+thead{
+ 	color: white;
+ 	/*text-shadow: 0 0 3px #FF0000, 0 0 15px #0000FF;*/
+ 	background-color: #182130;
+}
+#Category_Card{
+/*	-webkit-box-shadow: px 0 100px 50px #B5B5B3;
+box-shadow: px 0 100px 50px #B5B5B3;*/
+	 box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 40px 0 rgba(0, 0, 0, 0.19);
+}
